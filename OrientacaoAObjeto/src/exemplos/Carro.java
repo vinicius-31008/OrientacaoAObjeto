@@ -28,7 +28,7 @@ public class Carro {
     }
     
     public void exibir(){
-        System.out.println("o carro da cor "+ sCor + "está a uma velocidade de " 
+        System.out.println("o carro da cor "+ sCor + " está a uma velocidade de " 
             + fVelocidade + "km/h");
     } 
 }
