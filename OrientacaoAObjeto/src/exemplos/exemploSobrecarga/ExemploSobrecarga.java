@@ -1,4 +1,4 @@
-package exemplos;
+package exemplos.exemploSobrecarga;
 
 public class ExemploSobrecarga {
     public static void main(String[] args){
