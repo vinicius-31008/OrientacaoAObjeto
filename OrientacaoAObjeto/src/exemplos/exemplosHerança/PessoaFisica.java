@@ -6,4 +6,8 @@ public class PessoaFisica extends Pessoa{
     public void mostraRG(String rg){
         System.out.println(rg);
     }
+
+    public void mostraClasse(){
+        System.out.println("PESSOA FISICA");
+    }
 }

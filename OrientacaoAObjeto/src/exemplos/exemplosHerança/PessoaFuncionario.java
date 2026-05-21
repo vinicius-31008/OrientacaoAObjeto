@@ -6,4 +6,8 @@ public class PessoaFuncionario extends PessoaFisica {
     public void mostraCartao(String cartao){
         System.out.println(cartao);
     }
+
+    public void mostraClasse(){
+        System.out.println("FUNCIONARIO");
+    }
 }

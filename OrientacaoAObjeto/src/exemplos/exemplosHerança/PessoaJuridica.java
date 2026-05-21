@@ -6,4 +6,8 @@ public class PessoaJuridica extends PessoaFisica {
     public void cnpj(String cnpj){
         System.out.println(cnpj);
     }
+
+    public void mostraClasse(){
+        System.out.println("PESSOA JURIDICA");
+    }
 }

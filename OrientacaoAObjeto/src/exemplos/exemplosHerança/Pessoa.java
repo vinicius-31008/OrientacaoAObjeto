@@ -6,4 +6,8 @@ public class Pessoa {
     public void nome(String nome){
         System.out.println(nome);
     }
+
+    public void mostraClasse(){
+        System.out.println("PESSOA");
+    }
 }
